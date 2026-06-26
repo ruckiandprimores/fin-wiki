@@ -1,0 +1,30 @@
+# ─────────────────────────────────────────────────────────────
+# fin-wiki — public publication exclusions
+# Anything that is private, sensitive, or copyright-encumbered
+# must NOT be committed. See ARCHITECTURE.md for what IS public.
+# ─────────────────────────────────────────────────────────────
+
+# Copyrighted source material — full-text extractions + PDFs of in-copyright
+# books (Kindleberger, López de Prado, Graham, Buffett, Murphy, Sinclair, …).
+# Never publish. Distillations live in the wiki as our own synthesis only.
+raw/
+
+# Sensitive materials — actual performance, capital allocation, account data.
+private/
+
+# Internal agent/session config and tooling.
+.claude/
+
+# Private operational dev-trail (team names, live metrics, substrate coupling).
+# The public navigation surface is wiki/index.md (sanitized).
+wiki/log.md
+
+# Internal brain/schema doc (couples to the private finance substrate).
+# Public equivalent is ARCHITECTURE.md at repo root.
+CLAUDE.md
+
+# OS / editor noise
+.DS_Store
+*.swp
+.idea/
+.vscode/
