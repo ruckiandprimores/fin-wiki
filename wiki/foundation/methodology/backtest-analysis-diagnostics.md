@@ -63,6 +63,7 @@ Read the **time-stop bucket's win rate**:
 - All three correct the same failure: **an aggregate number hiding the structure that determines the next action.**
 
 ## Related
+- [[../sources/wang-crypto-lob-inputs|Wang — Better Inputs > Deeper Nets (2025)]] — empirical anchor for data/signal-quality dominating architecture
 
 - [[../../trading/mechanisms/scaffold-as-mechanism]] — diagnostic #2 is the asymmetric-N exception to its per-bar Pearson threshold
 - [[path-quality-diagnostics]] — sibling "aggregate metric hides structure" lens (P&L concentration vs these interpretation diagnostics)

@@ -367,6 +367,7 @@ The cross-venue finding empirically motivates capability investment in multi-ven
 4. **Funding-carry deployment expectations**: a live deployment's risk-adjusted return currently inside academic theoretical 1.8-3.5 range; expect Sharpe-decay on multi-year horizon as arbitrage capital scales (per the 11%/yr deviation-decay).
 
 ## Related
+- [[../../foundation/sources/le-funding-aware-market-making|Le — Funding-Aware Market Making (2026)]] — funding as a market-making state variable, not just a carry
 - [[../../foundation/sources/carry-koijen-moskowitz-pedersen-vrugt|Carry (KMPV 2018)]] — the cross-asset mechanism this funding family instantiates
 
 - [[foundation/market-structure/crypto-carrier-features]] — central catalog; funding-rate carriers documented there

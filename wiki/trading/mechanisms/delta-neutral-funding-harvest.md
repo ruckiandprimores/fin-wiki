@@ -290,6 +290,7 @@ See [[trading/mechanisms/insurance-premium-harvest-overview#vrp-vs-funding-disti
 - ScienceDirect — *Exploring Risk and Return Profiles of Funding Rate Arbitrage on CEX and DEX* ([sciencedirect.com/science/article/pii/S2096720925000818](https://www.sciencedirect.com/science/article/pii/S2096720925000818))
 
 ## Related
+- [[../../foundation/sources/le-funding-aware-market-making|Le — Funding-Aware Market Making (2026)]] — inventory-funding HJB; the market-making counterpart to harvesting
 
 - [[insurance-premium-harvest-overview]] — parent / index page; one-screen comparison vs VRP harvest
 - [[variance-risk-premium-crypto]] — sibling: options-based insurance-premium harvest
