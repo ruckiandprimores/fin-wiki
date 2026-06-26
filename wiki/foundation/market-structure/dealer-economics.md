@@ -208,6 +208,7 @@ This page extends:
 - The trader's a funding-carry strategy is dealer-side economics applied to perp funding — sustainable edge as long as retail-leveraged-long flow persists
 
 ## Related
+- [[../sources/bouchaud-trades-quotes-prices|Bouchaud et al. — Trades, Quotes and Prices (2018)]] — formalizes the market-maker impact/adverse-selection problem
 
 - [[foundation/market-structure/crypto-carrier-features]] — central catalog of crypto-native carriers; a funding-carry strategy is funding-rate carrier, AMM LP economics is LVR carrier — both catalogued there as derivatives-microstructure features
 - [[foundation/sources/harris-trading-exchanges]] — source

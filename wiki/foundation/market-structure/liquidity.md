@@ -249,6 +249,7 @@ Connects to:
 - Strategy capacity, implementation shortfall, stop reliability, and venue selection all hinge on liquidity assessment
 
 ## Related
+- [[../sources/bouchaud-trades-quotes-prices|Bouchaud et al. — Trades, Quotes and Prices (2018)]] — the microstructure-theory reference: impact, latent liquidity, the square-root law
 
 - [[foundation/market-structure/crypto-carrier-features]] — central catalog of crypto-native carriers; cross-venue liquidity asymmetry (CEX vs DEX, cross-CEX) is catalogued there as a microstructure-asymmetry carrier
 - [[foundation/sources/harris-trading-exchanges]] — source

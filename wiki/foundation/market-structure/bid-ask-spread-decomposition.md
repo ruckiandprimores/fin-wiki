@@ -210,6 +210,7 @@ If the hypothesis holds, the operational rule is concrete: **avoid trading durin
 - Avoid trading during high-information-asymmetry windows (news, FOMC, listings)
 
 ## Related
+- [[../sources/bouchaud-trades-quotes-prices|Bouchaud et al. — Trades, Quotes and Prices (2018)]] — the adverse-selection component formalized
 
 - [[foundation/sources/harris-trading-exchanges]] — source
 - [[foundation/market-structure/microstructure-themes]] — Theme 1 (information asymmetries) operationalized here
