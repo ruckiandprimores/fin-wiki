@@ -162,6 +162,7 @@ This is the operational form of tape reading the wiki's [[foundation/idea-sourci
 - Failure modes include adversarial structure, deliberate manipulation, regime change, and the Cotton King vulnerability (charisma override).
 
 ## Related
+- [[../sources/neill-tape-reading-market-tactics|Neill — Tape Reading and Market Tactics (1931)]] — the source manual this mechanism anchors on
 
 - [[foundation/market-structure/crypto-carrier-features]] — central catalog of crypto-native carriers; the modern instrumentation of tape reading (CVD, on-chain whale flow, liquidation maps, exchange aggressor flow) is catalogued there
 - [[foundation/sources/lefevre-reminiscences]] — Livermore experiential; Chs I, V, VII, X, XVII, XX, XXIII

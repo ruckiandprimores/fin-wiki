@@ -356,6 +356,8 @@ This page is a *living artifact*. A stale lineage page is worse than no lineage 
 - **What's the right way to represent *anti*-influences** — sources that are explicitly framed in opposition to other sources (e.g., Buffett's modern-finance-theory critique is *anti*-Markowitz/Sharpe/Fama)? Currently treated as one-way "rebuts" but the graph could show explicit opposition edges.
 
 ## Related
+- [[de-la-vega-confusion-de-confusiones|de la Vega — Confusión de Confusiones (1688)]] — earliest behavioral-market source; predates the cluster
+- [[neill-tape-reading-market-tactics|Neill — Tape Reading and Market Tactics (1931)]] — price-volume-confirmation member of the pre-regulation cluster
 
 - the wiki architecture (ARCHITECTURE.md) Section 7 — the original curated reading list, which this page operationalizes as a graph
 - [[foundation/sources/the-intelligent-investor]]

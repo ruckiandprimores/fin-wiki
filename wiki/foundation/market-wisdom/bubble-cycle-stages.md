@@ -380,6 +380,7 @@ This is genuinely additive vs the existing Kindleberger / Minsky framework — t
 Cross-link: [[foundation/macro/btc-regime-taxonomy-2020-2025]] §Hayes contemporary calibration for the regime-marker translation.
 
 ## Related
+- [[../sources/de-la-vega-confusion-de-confusiones|de la Vega — Confusión de Confusiones (1688)]] — 1688 Amsterdam panics + expectation-vs-event, the deepest historical anchor
 
 - [[foundation/sources/kindleberger-manias-panics-crashes]] — the source; Ch 2 of *Manias, Panics, and Crashes*
 - [[foundation/market-wisdom/minsky-three-finance]] — the credit-cycle taxonomy that complements the bubble-stage framework
