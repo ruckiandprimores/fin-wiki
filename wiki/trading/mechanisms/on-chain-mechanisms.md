@@ -184,6 +184,8 @@ Per the [[trading/mechanisms/liquidation-cascade-aftermath|liquidation-cascade-a
 6. **Multi-asset on-chain mechanisms**: ETH-specific (gas burn, staking flow), stablecoin-specific (USDT mint pace), DeFi-specific (TVL flow). Currently BTC-centric.
 
 ## Related
+- [[../../foundation/sources/glassnode-week-onchain|Glassnode — The Week On-Chain]] — on-chain practitioner source (cohort/cost-basis metrics)
+- [[../../foundation/sources/coinmetrics-state-of-network|Coin Metrics — State of the Network]] — Realized-Cap / MVRV primitive
 
 - this research program capability roadmap rank #2 — Glassnode capability-investment context
 - [[foundation/market-structure/crypto-carrier-features]] — on-chain flow as a carrier category

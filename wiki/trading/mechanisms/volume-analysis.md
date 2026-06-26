@@ -274,6 +274,7 @@ This mechanism is foundational to several others (chart-patterns confirmation, a
 - This page is the wiki's current best precursor to the still-unfilled [[foundation/sources/lineage|Wyckoff source]] — accumulation/distribution analysis is fundamentally volume-and-price work
 
 ## Related
+- [[../../foundation/sources/cong-crypto-wash-trading|Crypto Wash Trading (Cong et al. 2023)]] — data-quality gate: reported volume is unreliable on unregulated venues
 
 - [[foundation/market-structure/crypto-carrier-features]] — central catalog of crypto-native carriers; the three crypto volume sources (spot, perp, on-chain) and OI-as-positioning-layer are catalogued there
 - [[foundation/sources/wyckoff-method]] — primary articulation of effort-vs-result; the Wave Chart; volume-as-effort framework. Source for the Wyckoff sections above.

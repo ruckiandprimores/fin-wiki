@@ -10,7 +10,7 @@ tags: [meta, index, navigation]
 
 > Navigation catalog for the wiki. **Read [[ARCHITECTURE|ARCHITECTURE.md]] first** — the operating rules for this wiki: the schema, the mechanism-first domain principles, page conventions, and ingest/research workflows that govern how it is built and maintained. Use it *alongside* the wiki when reading or contributing. Then browse by section below. Open research questions live in **[[questions/index|the open-questions index]]**.
 >
-> 194 pages across a shared **foundation** and two branches — **trading** (day/swing) and **investment** (long-horizon).
+> 198 pages across a shared **foundation** and two branches — **trading** (day/swing) and **investment** (long-horizon).
 
 > **How this fits together.** This wiki is the **knowledge and memory** layer — it collects and systematizes information. Sitting *on top* of it is an AI research agent (the **strategist**) that consumes this knowledge to discover strategies, enforce validation discipline, and surface decisions. The agent's design is documented as knowledge in [[foundation/methodology/research-agent-design|The Strategist — Design of an AI Strategy-Research Agent]] (and [[ARCHITECTURE|ARCHITECTURE.md]] §Part V); its live operational state is private and deliberately not in this knowledge base. The separation is the point: the wiki *remembers*, the strategist *thinks*.
 
@@ -90,6 +90,10 @@ tags: [meta, index, navigation]
 - [[foundation/methodology/value-investing-sourcing-funnel|Value Investing Sourcing Funnel — How to Find Candidates]]
 
 ### Sources (annotated literature)
+- [[foundation/sources/glassnode-week-onchain|Glassnode — "The Week On-Chain" (on-chain practitioner research)]]
+- [[foundation/sources/coinmetrics-state-of-network|Coin Metrics — "State of the Network" (Realized Cap / MVRV)]]
+- [[foundation/sources/cong-crypto-wash-trading|Crypto Wash Trading (Cong, Li, Tang & Yang 2023)]]
+- [[foundation/sources/carry-koijen-moskowitz-pedersen-vrugt|Carry (Koijen, Moskowitz, Pedersen & Vrugt 2018)]]
 - [[foundation/sources/almeida-bitcoin-risk-premia|Risk Premia in the Bitcoin Market (Almeida, Grith, Miftachov, Wang 2024)]]
 - [[foundation/sources/borri-liu-tsyvinski-wu-investable-asset-class|Borri, Liu, Tsyvinski, Wu — Cryptocurrency as an Investable Asset Class: Coming of Age (2025)]]
 - [[foundation/sources/buffett-essays|The Essays of Warren Buffett — Cunningham Edition]]

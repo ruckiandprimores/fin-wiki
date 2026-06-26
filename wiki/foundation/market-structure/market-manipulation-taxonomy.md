@@ -301,6 +301,7 @@ Falsifier:     If squeeze occurrence rate ≤ 50% in identified setups, OR
 - The behavioral umbrella is the **Composite Operator** + four-phase activity cycle; Harris's three categories operate within and across the phases
 
 ## Related
+- [[../sources/cong-crypto-wash-trading|Crypto Wash Trading (Cong et al. 2023)]] — forensic detection methodology operationalizing this taxonomy
 
 - [[foundation/market-structure/crypto-carrier-features]] — central catalog of crypto-native carriers; squeezer-category mechanics rely on liquidation-engine visibility, funding extremes, and OI buildup — all carrier features catalogued there
 - [[foundation/sources/kindleberger-manias-panics-crashes]] — Kindleberger Ch 2 names "the revelation of a swindle or defalcation" as one of three canonical panic triggers, alongside bank failures and sharp commodity moves. Carlos Ponzi (1920s Boston) is the eponym for [[foundation/market-wisdom/minsky-three-finance|Minsky's Ponzi-finance regime]] — Madoff, FTX/Alameda, Terra/Luna are modern Ponzi-finance failures
