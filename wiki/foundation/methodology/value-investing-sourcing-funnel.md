@@ -272,8 +272,7 @@ Pharma is on weak-CoC list per this research program — the funnel adapts:
 - **CoC is the largest single constraint**. Most of the universe is permanently out-of-CoC for any individual investor. Aiming for "I'll invest in anything" is incompatible with concentration discipline. Embrace narrowness.
 - **Watchlist atrophy**. If watchlist isn't actively reviewed, entries decay. Quarterly cadence is a minimum.
 
-## Open Questions for Future Investigation
-
+## Open Questions for Future Investigation {#open-questions}
 1. **Empirical funnel-ratio audit**: track actual sourcing → thesis → position conversion rates over 12 months to calibrate funnel expectations. Currently illustrative-only.
 2. **Specialty-screener coverage**: which screeners best cover REITs, BDCs, CEFs (where Magic Formula doesn't apply)? Need NAREIT-grade screening.
 3. **13F filers to track**: current shortlist is generic value-investor names. Curate to filers whose CoC overlaps with user's CoC areas (AI/software + RE + crypto-trading-adjacent).

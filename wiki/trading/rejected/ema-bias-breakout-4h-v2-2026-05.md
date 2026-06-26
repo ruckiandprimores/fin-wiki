@@ -117,7 +117,7 @@ None of these are simple parameter tweaks; each is a strategy redesign. Per Marc
 - **2026-05-05 PM-2** — deployment-edge methodology added; original entry recalibrated with deployment-grade-fail section, downgraded to "research-grade only"
 - **2026-05-05 PM-3** — deployment-grade stocktake (Task 4) reverses verdict to REJECTED; this entry supersedes original; original `backtest-results/` file deleted
 
-The verdict trail itself is wiki content — see [[log]] entries 2026-05-05 PM, PM-2, PM-3.
+The verdict trail itself is wiki content — see the activity log entries 2026-05-05 PM, PM-2, PM-3.
 
 ## Related
 

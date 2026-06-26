@@ -133,8 +133,7 @@ Marks is **the missing piece between Kindleberger (academic) and Buffett (operat
 - **The credit-cycle framing is US-equity-credit-centric**. Adapting to crypto's specific credit cycle (perp / DeFi / lending) requires the [[trading/mechanisms/funding-cycle-dynamics]] + [[trading/mechanisms/on-chain-mechanisms]] + [[trading/mechanisms/stablecoin-mechanisms]] substrate to bridge.
 - **N=1 author**. Marks's framework is widely cited but is one practitioner's synthesis. Cross-validate with Kindleberger (independent academic) and Buffett (independent practitioner). All three agree on cycle-positioning > forecasting; convergence strengthens the framework.
 
-## Open Questions for Future Investigation
-
+## Open Questions for Future Investigation {#open-questions}
 1. **Full book ingest**: the priority among "next book ingests" given Sinclair + Hayes already landed and Soros companion ingest in queue.
 2. **Marks's quantitative-cycle-position checklist**: the book has more rigor than summaries capture. Does it operationalize differently than Glassnode-MVRV style frameworks?
 3. **Distressed-debt opportunity in crypto**: Marks's framework should apply to crypto distressed lending (Genesis bankruptcy claims, FTX claims trading). Is there a wiki-page-worthy substrate here?

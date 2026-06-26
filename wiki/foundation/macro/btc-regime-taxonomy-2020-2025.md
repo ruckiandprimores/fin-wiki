@@ -540,8 +540,7 @@ The above table describes *which regimes a strategy family operates in statistic
 
 This is consistent with the [[foundation/macro/regime-conditional-edge-2025-26|W2 finding]]: 13/13 strategies' edge concentrated in 2025-Q4 + 2026-Q1; 5-6 month edge × full-year friction structurally compresses net edge below threshold even when statistically validated.
 
-## Honest Caveats
-
+## Honest Caveats {#caveats}
 - **Cycle vs cycle calibration**: each cycle has cycle-specific features. 2017's Korean premium gone; 2020-2022's NFT/algorithmic-stable mania gone; 2024-?'s ETF flow may reset the 4-year clock. Apply this taxonomy as historical reference; *don't* assume future cycles repeat exactly.
 - **Regime boundaries are fuzzy**: dates above are approximate. Real regimes transition over weeks; the boundary date is the most-distinctive event.
 - **Single-asset focus**: this is BTC-specific. Alt regimes can diverge (alt season vs BTC-led periods). For alt-specific regimes, separate taxonomy required.

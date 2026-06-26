@@ -345,12 +345,11 @@ This makes the source's *graph position* explicit at the top, rather than buried
 This page is updated:
 - Every time a new source is ingested (move ☐ to ✅; add new graph edges)
 - Whenever a new concept is added to the wiki (append a row to Concept Lineage table)
-- After any [[log|LINT]] that changes priority order
+- After any LINT that changes priority order
 
 This page is a *living artifact*. A stale lineage page is worse than no lineage page; if you're updating sources without updating this, the gap will grow silently.
 
-## Open Questions About the Lineage Itself
-
+## Open Questions About the Lineage Itself {#open-questions}
 - **Is "value investing → Buffett's modern synthesis" really a single lineage, or does Munger represent a parallel tradition (mental models, Charlie's specific influences) that fed into the same destination?** Probably the latter. When Munger's *Almanack* is ingested, the graph should show two converging streams.
 - **Does crypto deserve its own lineage cluster, separate from the equity-derived ones?** Currently treating crypto-native sources (Glassnode, etc.) as data references rather than intellectual sources. May need its own cluster as the wiki matures.
 - **What's the right way to represent *anti*-influences** — sources that are explicitly framed in opposition to other sources (e.g., Buffett's modern-finance-theory critique is *anti*-Markowitz/Sharpe/Fama)? Currently treated as one-way "rebuts" but the graph could show explicit opposition edges.
@@ -371,7 +370,7 @@ This page is a *living artifact*. A stale lineage page is worse than no lineage 
 - [[foundation/sources/kindleberger-manias-panics-crashes]]
 - [[foundation/sources/schwager-market-wizards]]
 - [[foundation/sources/lopez-de-prado-advances-fin-ml]]
-- [[log|Activity log]] — when each source was ingested and what was created
+- Activity log — when each source was ingested and what was created
 
 ## Sources
 

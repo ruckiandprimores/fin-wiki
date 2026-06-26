@@ -202,8 +202,7 @@ The page was written as preventative substrate with the falsifier "not yet live.
 - **Treasury-vehicle ≠ MSTR-shaped only**. Mining companies (Riot, Marathon, CleanSpark, Hut 8) have different treasury dynamics than pure-treasury vehicles (MSTR-class). Don't aggregate them as homogeneous; mining vehicles have operational-cash-flow needs that pure treasuries don't.
 - **Hayes essays flagged risk; not yet validated structurally**. Per [[foundation/sources/hayes-essays|Hayes ingest]], MSTR-class strategic-vehicle weakening was named as forward-looking risk. This page operationalizes the watch but doesn't yet validate the cascade — the cascade hasn't happened.
 
-## Open Questions for Future Investigation
-
+## Open Questions for Future Investigation {#open-questions}
 1. **Verification pass on watch list "🔬 verify" entries** (Tesla, Block, Galaxy, El Salvador, individual public miners). Need quarterly-disclosure aggregation.
 2. **Aggregate quarterly net-flow tracking infrastructure**: which data source provides reliable cross-vehicle treasury-flow aggregation? bitbo.io is candidate; needs evaluation.
 3. **Sovereign-treasury cohort study**: Bhutan + El Salvador + UAE + any other sovereigns. Mode-pattern across cohort?

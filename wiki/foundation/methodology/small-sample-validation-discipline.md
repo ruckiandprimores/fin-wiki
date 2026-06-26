@@ -18,7 +18,7 @@ Sits within **Gate 1 (Statistical significance)** of the 5-gate deployment-decis
 
 | Gate | Page | Refinement |
 |---|---|---|
-| 0. Mechanism articulation | [[../../the wiki architecture (ARCHITECTURE.md)|the research program]] | — |
+| 0. Mechanism articulation | [[ARCHITECTURE|wiki schema]] §4 | — |
 | 1. Statistical significance | [[strategy-validation-discipline]] | **this page** — small-N operational layer |
 | 2. Translation-loss | [[forecast-vs-tradeable-gap]] | — |
 | 3. Economic significance | [[deployment-edge-threshold]] | — |

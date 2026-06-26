@@ -8,7 +8,7 @@ tags: [framework, valuation, buffett, resolves-contradiction]
 
 # Value vs. Growth — A False Dichotomy
 
-> **TL;DR**: Buffett's framing dissolves the apparent Graham-vs-Lynch contradiction (flagged in the [[log|2026-04-29 lint]]). Growth and value are not separate strategies — growth is *one input* into the value calculation. Calling something "value investing" is a redundancy ("all investing is investing in something whose price is below its value") and calling something "growth investing" without a value framework is just speculation. The right question is never "growth or value" but *"is this growth correctly priced relative to what it produces?"*
+> **TL;DR**: Buffett's framing dissolves the apparent Graham-vs-Lynch contradiction (flagged in the 2026-04-29 lint). Growth and value are not separate strategies — growth is *one input* into the value calculation. Calling something "value investing" is a redundancy ("all investing is investing in something whose price is below its value") and calling something "growth investing" without a value framework is just speculation. The right question is never "growth or value" but *"is this growth correctly priced relative to what it produces?"*
 
 ## The Problem
 

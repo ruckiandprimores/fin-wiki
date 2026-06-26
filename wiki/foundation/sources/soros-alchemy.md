@@ -145,8 +145,7 @@ These concepts are in the book but not cleanly reproduced in secondary summaries
 - **Crypto reflexivity is amplified but also faster**. Cycle compression means the boom-bust phase is days/weeks (UST May 2022 was ~10 days end-to-end), not months/years. Equity-style reflexivity playbooks need crypto-time-scale adjustment.
 - **N=1 author**. Soros is one practitioner; reflexivity is one framework. Cross-validate against Marks (independent) and Kindleberger (independent academic). All three agree on cycle dynamics; convergence is the strength.
 
-## Open Questions for Future Investigation
-
+## Open Questions for Future Investigation {#open-questions}
 1. **Full primary-text ingest**: priority among next book ingests. Soros + Marks both pending; **Soros should arguably go first** given (a) higher novelty (reflexivity not in other wiki sources) vs (b) Marks overlaps with Kindleberger/Buffett who are already wiki-ingested.
 2. **Reflexivity in specific crypto loops**: each of the 5 crypto-loops listed could become a [[trading/mechanisms/]] page if backtested mechanism emerges. MSTR-BTC reflexive loop is most distinctive; could be its own page.
 3. **Reflexivity diagnostics**: Soros has framework for *when* reflexivity is breaking (i.e., when cognitive-function and manipulative-function are diverging). Secondary-summaries don't capture; primary ingest required.

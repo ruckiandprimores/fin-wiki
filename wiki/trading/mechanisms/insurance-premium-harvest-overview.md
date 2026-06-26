@@ -43,7 +43,7 @@ Both VRP and delta-neutral funding harvest are:
 1. **Insurance-premium families** — the buyer cohort pays a structural premium to the seller cohort because of risk-aversion / leverage-demand / hedging-demand mismatches
 2. **Capacity-constrained edges** per a standing convention — neither has been arbed away despite being well-known to institutional vol funds and basis-trade desks
 3. **Negative-skew payoffs** — both pay steady and lose big in tail events; risk-adjusted Sharpe targets need to be earned through regime conditioning, not assumed
-4. **Day/swing-horizon compatible** — both have holding periods compatible with the wiki's ≤1-week target (per [[../foundation/the wiki architecture (ARCHITECTURE.md)|this research program §Trading style target]])
+4. **Day/swing-horizon compatible** — both have holding periods compatible with the wiki's ≤1-week target (per the wiki's day/swing scope)
 5. **Crypto-magnitude advantage over equity** — VRP is ~7× SPX; funding is no equity analog at all (crypto-native)
 
 ## Both mechanisms differ — the structural axes {#structural-axes}

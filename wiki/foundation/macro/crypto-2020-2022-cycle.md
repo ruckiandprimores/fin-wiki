@@ -361,8 +361,7 @@ The Distress→Panic transition was unusually *fast* (5 days) due to social-medi
 - The "where does the cash come from?" question could be applied to most yield products in real time.
 - Crypto traders have *more* visibility into the credit cycle than TradFi participants — and yet most still didn't apply the framework. The framework's value is conditional on *applying* it, not on availability of inputs.
 
-### Open questions surfaced
-
+### Open questions surfaced {#open-questions}
 - **Were 2013, 2017, 2021 separate bubbles or one continuous bubble?** The 2020-2022 cycle inherited institutional structures and counterparty exposures from prior cycles (Mt. Gox claims still distributing; GBTC discount mechanic from 2017). Cycle continuity is a feature of crypto absent from TradFi.
 - **Was 2024-? a new displacement (ETF approvals + Trump admin) or a continuation?** Both readings are defensible; live tracking via this framework is required.
 - **Will the next cycle's panic be amplified or dampened by current institutional structure?** ETF presence may dampen (institutional flow as cushion); ETF presence may amplify (aligned-direction institutional flow as accelerant). Empirical question.

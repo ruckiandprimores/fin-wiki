@@ -160,7 +160,7 @@ Graham opens with a story: In 1929, John Raskob (GM finance chairman) published 
 ## Related Sources
 
 - [[foundation/sources/lefevre-reminiscences]] — Livermore, tape reading (ingested 2026-05-03)
-- [[foundation/sources/security-analysis]] *(to create — Graham & Dodd, the deeper technical text)*
+- *Security Analysis* (Graham & Dodd - not yet ingested) *(to create — Graham & Dodd, the deeper technical text)*
 - [[foundation/sources/kindleberger-manias-panics-crashes]] — Kindleberger, bubble dynamics (ingested 2026-05-04)
 
 ## Sources

@@ -239,8 +239,7 @@ When evaluating any pharma investment, the canonical questions:
 
 This template extends [[foundation/methodology/investment-thesis-protocol]] with pharma-specific queries.
 
-## Open Questions for Future Investigation
-
+## Open Questions for Future Investigation {#open-questions}
 1. **What's the impact trajectory of IRA negotiation on top-10 pharma revenue 2026-2030?** Specific revenue at risk per company.
 2. **How does Cost Plus Drug Co. (Mark Cuban) and similar direct-to-consumer pricing affect PBM rebate structure?** N=1 disrupter; needs scale check.
 3. **Are there Buffett-class moats in specialty biotech with limited LOE exposure?** Vertex (cystic fibrosis), Regeneron (Eylea + biologics), Alnylam (RNAi platform) candidates.

@@ -202,7 +202,7 @@ Per this research program: the operational methodology layer is complete; five r
 
 Per this research program (five runnable paths): AI/Tech tranche / Pharma XDWH pilot / Crypto-HODL gap (BTC TRIGGERED) / REITs direct-first / DHR standalone. The first production run surfaces decision-mechanism gaps the dry-run methodology can't. The Crypto-HODL L1 sleeve is already moving (paper opening tranche; guarded by [W1](#w1)).
 
-- Source: this research program + [[../foundation/methodology/investment-thesis-protocol#exit-mechanism]] (exit-frame coherence: falsifier-exit for HODL, price-stop for trading)
+- Source: this research program + [[../foundation/methodology/investment-thesis-protocol#exit-mechanism-frame-coherence]] (exit-frame coherence: falsifier-exit for HODL, price-stop for trading)
 - Status: L1 HODL paper tranche active; other four paths user-initiated
 - Decides: decision-mechanism gaps under production load
 
@@ -293,7 +293,7 @@ For depth on any topic above, see the page-specific Open Questions sub-sections.
 ## Related
 
 - [[../index|Wiki Index]] — main navigation
-- [[../log|Wiki Log]] — chronological activity record
+- Wiki Log — chronological activity record
 - this research program — substrate (project state + active priorities)
 
 ## Sources

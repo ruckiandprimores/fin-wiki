@@ -239,7 +239,7 @@ For ρ (signed, not absolute): time trend β = −0.14*** to −0.25*** dependin
 | 2021 | **$132.0 bn** | — |
 | 2022 | **$101.9 bn** | 2-3× spot |
 
-Per [[trading/mechanisms/liquidation-cascade-aftermath#7-october-10-11-2025-etf-era-19b-deleveraging-cascade|Oct 2025 cascade]]: perp monthly volume ~$1.33T (~$44B daily) — market has grown 2-3× since this paper's sample.
+Per [[trading/mechanisms/liquidation-cascade-aftermath#7-october-10-11-2025-etf-era-19b-tariff-triggered-deleveraging-cascade|Oct 2025 cascade]]: perp monthly volume ~$1.33T (~$44B daily) — market has grown 2-3× since this paper's sample.
 
 ### Three explained market episodes
 

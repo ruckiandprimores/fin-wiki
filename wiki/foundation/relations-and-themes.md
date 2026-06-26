@@ -282,7 +282,7 @@ This page is a living artifact like [[foundation/sources/lineage]]. Updated when
 - A new ingest produces concepts converging on existing themes (add new row to relevant theme table)
 - A new tension is identified (add to Tensions section)
 - A signal-stacking pattern proves valuable in practice (add to Setups section)
-- A wiki [[log|LINT]] surfaces missing cross-links (update Cross-Link Gaps)
+- A wiki LINT surfaces missing cross-links (update Cross-Link Gaps)
 
 Stale themes pages are worse than missing ones — they suggest connections that don't reflect the actual wiki.
 
@@ -294,7 +294,7 @@ Stale themes pages are worse than missing ones — they suggest connections that
 - [[trading/rejected/candle-morphology-batch-2026-04]] — first batch-level rejected entry; concrete evidence for sourcing-methodology Pattern A
 - the wiki architecture (ARCHITECTURE.md) Part I — domain knowledge that this synthesis applies
 - [[index]] — the flat catalog this page complements with relational structure
-- [[log]] — historical record of how the wiki grew
+- the activity log — historical record of how the wiki grew
 
 ## Open Questions
 

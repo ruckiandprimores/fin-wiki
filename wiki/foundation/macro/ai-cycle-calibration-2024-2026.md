@@ -181,8 +181,7 @@ Crypto's relationship to the AI cycle is **second-order** (not direct):
 
 **Honest read**: AI cycle does NOT directly drive BTC short-term, but it shapes the macro liquidity regime (power-driven inflation risk + capex-driven productivity-or-not question) that affects BTC long-term.
 
-## Honest Caveats / Open Questions
-
+## Honest Caveats / Open Questions {#open-questions}
 - **Stage call is current-best, not certain.** The mix of Boom signatures (capex acceleration, pricing power) + early-Distress signatures (depreciation > profits, monetization gap) is consistent with multiple histories — telecom 1999, dot-com 1999, oil 1980. Each had different bust dynamics. Cross-comparison is suggestive, not deterministic.
 - **Bullwhip-unwind timing is unknown.** Gad Allon's 2025-2026 inflection-point call is one analysis; consensus is more diffuse. Signal-checking depends on watching the listed transition signatures.
 - **Monetization gap closure is the swing variable.** If end-customer AI productivity becomes measurable in 2026-2027, cycle continues (Boom → Euphoria → eventual late-Euphoria peak). If gap persists into 2028, capex outruns demand and bust mechanics activate.

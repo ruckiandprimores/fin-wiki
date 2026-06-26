@@ -155,7 +155,7 @@ These are flagged for user / team review, not unilaterally executed:
 2. **Trial-count tracking** — extend backtest-results page schema to log "# of trials on this dataset" so DSR can be applied. Wiki schema update + pipeline metadata enrichment.
 3. **PSR/DSR reporting** — extend backtest-results page schema to include skewness, kurtosis, PSR, DSR. Once pipeline emits these, treat 0.95 threshold as gate for "passed."
 4. **PBO methodology** — for any future *batch* of strategies (like the candle-morphology 10), compute PBO via CSCV. Methodology defined in wiki; engineering work to implement.
-5. **Pre-registration discipline** — for each strategy, the hypothesis + falsifier + parameter ranges should be locked in a wiki page **before** the backtest runs, per Marcos' Second Law. The wiki already has the [[trading/backtest-results]] folder structure ready for this — populate it.
+5. **Pre-registration discipline** — for each strategy, the hypothesis + falsifier + parameter ranges should be locked in a wiki page **before** the backtest runs, per Marcos' Second Law. The wiki already has the the backtest-results section folder structure ready for this — populate it.
 
 ## Key Takeaways
 

@@ -174,8 +174,7 @@ Per the [[trading/mechanisms/liquidation-cascade-aftermath|liquidation-cascade-a
 - **Self-fulfilling effects**: as more participants watch on-chain metrics, signals can become self-fulfilling (everyone buys at MVRV<1.0). This compresses edge over time. **Crypto-carrier-features burden-of-proof**: edge persistence requires structural barriers; MVRV-based discretionary trading has weakening edge as the metric becomes consensus.
 - **Cycle-classification signals are coarse-time**. Don't use MVRV / NUPL for short-horizon trades; they're months-scale regime classifiers.
 
-## Open Questions for Future Investigation
-
+## Open Questions for Future Investigation {#open-questions}
 1. **Backtest feasibility per Tier**: which Tier-1 metrics can be backtested with what window? Realized price has full history; whale labeling has narrower history.
 2. **Cross-cycle calibration of MVRV thresholds for 2024-? cycle**: is the >3.5 = late-bull threshold still valid given ETF flow + institutional access?
 3. **Cohort cost-basis as embedded gating attribute**: per regime-gate-vs-bias-filter discipline, can STH RP be encoded as bias-filter for trading strategies (long-only above; short-only below)?

@@ -491,7 +491,7 @@ Per this research program (2026-05-13), the 2y multi-cycle re-run identified a l
 | net_pnl on $1K | **+$269** |
 | Cohort-positive at top region | 87% |
 
-This is the lab's **lead deployment candidate as of 2026-05-13** — selected from the 500-config 2y grid top region; structurally-distributed edge (per the 87% cohort positivity at the top region — distinct from the v6 vol-regime lottery-shape per [[trading/mechanisms/vol-regime-transition-tradeable#empirical-evidence-2026-05-11-pm-v6-batch-3-symbol-production-candidate-portfolio-asset-vol-scaling-n-3|vol-regime-transition-tradeable §v6 walk-back]]).
+This is the lab's **lead deployment candidate as of 2026-05-13** — selected from the 500-config 2y grid top region; structurally-distributed edge (per the 87% cohort positivity at the top region — distinct from the v6 vol-regime lottery-shape per [[trading/mechanisms/vol-regime-transition-tradeable#v6-batch|vol-regime-transition-tradeable §v6 walk-back]]).
 
 ### First per-sub PASS in lab history (cell-carving falsifier resolves)
 

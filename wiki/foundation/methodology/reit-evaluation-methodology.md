@@ -242,8 +242,7 @@ Datacenter REIT comparisons require MW-normalization, not SF-normalization.
 - **Rate sensitivity is asymmetric**: REITs are long-duration assets; +100 bps in 10y Treasury typically compresses REIT prices 8-15%. **Never go long REITs without a Fed-path view**.
 - **Tax structure matters**: REITs avoid corporate tax by distributing 90%+ of income. International investors face withholding tax (typically 15% for US REITs). Holding REITs in tax-deferred accounts is structurally optimal.
 
-## Open Questions for Future Investigation
-
+## Open Questions for Future Investigation {#open-questions}
 1. **What's the right yield-on-cost gate** for AI-infra-REIT new development? (current development yields cited at 9-12% by EQIX/DLR for AI-tenanted projects vs 6-8% acquisition cap rates — gap is unusually wide)
 2. **How should we adjust AFFO for datacenter-specific GPU-cooling capex** that didn't exist in pre-AI datacenter operations?
 3. **What's the historical track record of REIT NAV calls?** (suspicion: NAV-discount entry has worked, NAV-premium entry has failed — but needs empirical verification)

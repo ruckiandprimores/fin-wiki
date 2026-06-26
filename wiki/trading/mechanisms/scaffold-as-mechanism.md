@@ -270,7 +270,7 @@ The same 2026-05-13 audit batch found two strategies that aggregate-passed but p
 | `meta_vol_btc_prod_v1` (v6) | vol_transition +$656 | range_fade **−$100** | vol_expansion_short ~$0 | **FAIL** — 1-sub strategy with 2-sub overhead |
 | `meta_vol_sol_prod_v1` (v6) | vol_transition (+) | range_fade_long **−$37** | — | **FAIL** — cosmetic |
 
-These are the v6 vol-regime "deployment-ready package" walk-back evidence ([[trading/mechanisms/vol-regime-transition-tradeable#empirical-evidence-2026-05-11-pm-v6-batch-3-symbol-production-candidate-portfolio-asset-vol-scaling-n-3|vol-regime-transition-tradeable §v6 batch — walked back]]). At the meta-strategy aggregate level (Sharpe 1.70, dd 29%) the strategies looked deployable; at the per-sub level the diversification claim falls apart. `vol_transition` carries the entire $656 edge on BTC prod; the other two subs are drag or noise.
+These are the v6 vol-regime "deployment-ready package" walk-back evidence ([[trading/mechanisms/vol-regime-transition-tradeable#v6-batch|vol-regime-transition-tradeable §v6 batch — walked back]]). At the meta-strategy aggregate level (Sharpe 1.70, dd 29%) the strategies looked deployable; at the per-sub level the diversification claim falls apart. `vol_transition` carries the entire $656 edge on BTC prod; the other two subs are drag or noise.
 
 ### Discipline implications
 

@@ -112,7 +112,7 @@ Buffett's frontal attack on the standard 1970s–1990s academic finance paradigm
 
 > "Growth and value, Buffett says, are not distinct. They are integrally linked since growth must be treated as a component of value."
 
-This **resolves the Graham-vs-Lynch tension** flagged in the [[log|2026-04-29 lint]]. Graham's anti-"growth investing" stance is anti-paying-for-priced-in-growth; Lynch's pro-fast-grower stance is pro-paying-for-growth-when-its-discount-to-future-value-is-large. Buffett's framing makes them the same activity, with growth inputs into the value calculation, not a separate strategy. *(See [[foundation/market-wisdom/value-vs-growth-false-dichotomy]].)*
+This **resolves the Graham-vs-Lynch tension** flagged in the 2026-04-29 lint. Graham's anti-"growth investing" stance is anti-paying-for-priced-in-growth; Lynch's pro-fast-grower stance is pro-paying-for-growth-when-its-discount-to-future-value-is-large. Buffett's framing makes them the same activity, with growth inputs into the value calculation, not a separate strategy. *(See [[foundation/market-wisdom/value-vs-growth-false-dichotomy]].)*
 
 ### 7. Wonderful Business at a Fair Price
 
@@ -186,8 +186,8 @@ Buffett's framework translates with mutation:
 
 - [[foundation/sources/the-intelligent-investor]] — Graham, Buffett's teacher
 - [[foundation/sources/one-up-on-wall-street]] — Lynch, the observation-driven complement
-- [[foundation/sources/security-analysis]] *(to create — Graham & Dodd, the deeper technical text)*
-- [[foundation/sources/poor-charlies-almanack]] *(to create — Munger's framework that influenced Buffett's shift)*
+- *Security Analysis* (Graham & Dodd - not yet ingested) *(to create — Graham & Dodd, the deeper technical text)*
+- *Poor Charlie's Almanack* (not yet ingested) *(to create — Munger's framework that influenced Buffett's shift)*
 
 ## Sources
 

@@ -190,7 +190,7 @@ The framework translates with mutation:
 
 - [[foundation/sources/the-intelligent-investor]] — Graham. Complementary: Graham gives you when to buy, Lynch gives you what to buy.
 - [[foundation/sources/lefevre-reminiscences]] — Livermore, tape reading (ingested 2026-05-03)
-- [[foundation/sources/quantpedia]] *(to create — strategy encyclopedia)*
+- Quantpedia (not yet ingested) *(to create — strategy encyclopedia)*
 
 ## Sources
 
