@@ -704,6 +704,7 @@ When designing a new strategy in this family:
 9. **Map DSL primitive requirements** (per §DSL Primitive Requirements section) — surface any unimplemented primitives explicitly and include in capability-investment decision.
 
 ## Related
+- [[../../foundation/sources/ali-oct-2025-liquidation-cascade|Ali (2025) — Anatomy of the Oct 10-11 2025 Cascade]] — the SSRN source behind the §7 case study
 
 - [[foundation/market-structure/crypto-carrier-features]] — central catalog; cascade carriers documented there
 - [[trading/mechanisms/accumulation-distribution]] — primary specific mechanism in this family (spring + upthrust)
