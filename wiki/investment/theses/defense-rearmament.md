@@ -1,24 +1,25 @@
 ---
-title: "Defense Re-armament — Structural Capex Trend (Scope-Candidate Vertical)"
-description: "Thesis on the multi-year NATO/defense re-armament capex cycle as a scope-candidate vertical (defense is currently a substrate SKIP). Trend durable, valuation the live hazard. ETF-first activation logic; relative-value among primes."
-status: seedling
+title: "Defense Re-armament — Structural Capex Trend (Active CoC-Build Vertical)"
+description: "Thesis on the multi-year NATO/defense re-armament capex cycle — an active CoC-build vertical (greenlit 2026-06-29, promoted from substrate SKIP). Trend durable, valuation the live hazard. ETF-first activation; relative-value among primes."
+status: growing
 created: 2026-06-27
-updated: 2026-06-27
-tags: [thesis, defense, re-armament, capex-cycle, scope-candidate, etf-first]
+updated: 2026-06-29
+tags: [thesis, defense, re-armament, capex-cycle, active-vertical, etf-first]
 ---
 
-# Defense Re-armament — Structural Capex Trend (Scope-Candidate Vertical)
+# Defense Re-armament — Structural Capex Trend (Active CoC-Build Vertical)
 
 > **TL;DR**: NATO's 5%-by-2035 commitment + contractual multi-year order books make defense the
 > **cleanest structural-capex trend in the tape** — flagged independently by the macro, REIT, and
 > best-seller research arms. The cycle is **early-to-mid** (spending earlier than price). The thesis
-> is durable; the live hazard is **valuation**, not trend — EU pure-plays at 30–40×. **Defense is
-> currently an explicit substrate SKIP**; this page collects the data feeding a scope-revisit, and
-> is marked **scope-candidate, not an active vertical.** Dated analysis, not a buy instruction.
+> is durable; the live hazard is **valuation**, not trend — EU pure-plays at 30–40×. **Promoted from
+> substrate SKIP to an active CoC-build vertical (greenlit 2026-06-29)** — activated ETF-first at
+> Tier-2-default sizing while circle-of-competence builds. Dated analysis, not a buy instruction.
 
-> **Status caveat**: activation waits on a separate equity-scope-revisit decision (defense + ex-US)
-> and a CoC-build path (to mirror Pharma's pre-graduation gate). Snapshots are late-June 2026
-> web-sourced — verify before acting.
+> **Status**: **active (greenlit 2026-06-29)** — an operational execution layer now exists in the
+> research program's investing docs (ETF-first; NATO core; BAE / Leonardo / LMT as value satellites;
+> Tier-2-default sizing + a CoC-build path mirroring Pharma's pre-graduation gate). Snapshots are
+> late-June 2026 web-sourced — verify before acting.
 
 ## The trend (durable)
 
@@ -45,7 +46,7 @@ prove cheap; if not, it's a momentum top. That tension is why activation leans E
 - **Stretched (priced for years of growth):** Rheinmetall (30–39×), Saab (~40×), Thales (~29×).
 - **Not a clean play:** Boeing (40×+, unstable) — commercial-aero contamination.
 
-## Activation logic (if the scope-revisit says go)
+## Activation logic (greenlit — ETF-first)
 
 **ETF-first pilot**, per the [[foundation/methodology/execution-vehicle-typology|role-(a) logic]]:
 weak CoC → higher ETF share. A diversified NATO wrapper (HANetf Future of Defence) or a Europe
@@ -68,5 +69,5 @@ until CoC builds.
 
 - [[investment/instruments/defense-instruments|Defense sleeve dossiers]] — ETF + prime instrument detail
 - [[foundation/methodology/execution-vehicle-typology|Execution-Vehicle Typology]] — ETF-first activation rationale
-- [[investment/theses/ex-us-de-dollarization|Ex-US / De-Dollarization]] — sibling scope-candidate from the same 2026-06-27 sweep
+- [[investment/theses/ex-us-de-dollarization|Ex-US / De-Dollarization]] — sibling active leg from the same 2026-06-27 sweep
 - [[foundation/macro/intermarket-analysis|Intermarket Analysis]] — macro overlay (de-dollarization rotation context)

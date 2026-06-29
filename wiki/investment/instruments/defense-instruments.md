@@ -1,20 +1,19 @@
 ---
-title: "Defense Sleeve Dossiers — ETFs + Primes (Scope-Candidate)"
-description: "ETF + prime-name dossiers for the scope-candidate defense vertical. EU-investor UCITS universe + relative-value among primes. Trend durable, valuation the live hazard; ETF-first activation. Feeds the equity-scope-revisit decision."
-status: seedling
+title: "Defense Sleeve Dossiers — ETFs + Primes (Active Vertical)"
+description: "ETF + prime-name dossiers for the defense vertical — active CoC-build vertical (greenlit 2026-06-29). EU-investor UCITS universe + relative-value among primes. Trend durable, valuation the live hazard; ETF-first activation."
+status: growing
 created: 2026-06-27
-updated: 2026-06-27
-tags: [investment, defense, instruments, dossier, scope-candidate, etf-first]
+updated: 2026-06-29
+tags: [investment, defense, instruments, dossier, active-vertical, etf-first]
 ---
 
-# Defense Sleeve Dossiers (Scope-Candidate)
+# Defense Sleeve Dossiers (Active Vertical)
 
-> **TL;DR**: ETF + prime dossiers for the **scope-candidate** defense vertical (defense is currently
-> an explicit substrate **SKIP**). Trend durable (NATO 5%-by-2035, contractual order books); the live
-> hazard is **valuation, not trend** (EU pure-plays 30–40×). Activation = **ETF-first** per the
-> [[foundation/methodology/execution-vehicle-typology|role-(a) logic]]; enter direct only through the
-> lower-multiple primes. **Not yet an active vertical** — collected to let the go/no-go run off
-> substrate. Full cycle thesis: [[investment/theses/defense-rearmament|Defense Re-armament]].
+> **TL;DR**: ETF + prime dossiers for the defense vertical — **promoted from substrate SKIP to an
+> active CoC-build vertical (greenlit 2026-06-29).** Trend durable (NATO 5%-by-2035, contractual order
+> books); the live hazard is **valuation, not trend** (EU pure-plays 30–40×). Activation = **ETF-first**
+> per the [[foundation/methodology/execution-vehicle-typology|role-(a) logic]]; enter direct only through
+> the lower-multiple primes. Full cycle thesis: [[investment/theses/defense-rearmament|Defense Re-armament]].
 
 ## ETFs (EU-investor UCITS universe; XAR/ITA are US-listed, EU-retail-blocked)
 
@@ -49,11 +48,11 @@ re-rating vs mean-reversion unresolved → ETF-first beats concentrating into mo
 
 ## Status / falsifier
 
-**Scope-candidate, pending the equity-scope-revisit** (defense + ex-US). CoC-build path TBD (mirror
-Pharma's pre-graduation gate). Falsifiers in [[investment/theses/defense-rearmament#falsifier-invalidation|the thesis]].
+**Active CoC-build vertical (greenlit 2026-06-29)** — ETF-first at Tier-2-default sizing while CoC
+builds (mirrors Pharma's pre-graduation gate). Falsifiers in [[investment/theses/defense-rearmament#falsifier-invalidation|the thesis]].
 
 ## Related
 
 - [[investment/theses/defense-rearmament|Defense Re-armament thesis]] — cycle read + activation logic
-- [[investment/theses/ex-us-de-dollarization|Ex-US / De-Dollarization]] — sibling scope-candidate
+- [[investment/theses/ex-us-de-dollarization|Ex-US / De-Dollarization]] — sibling active leg
 - [[foundation/methodology/execution-vehicle-typology|Execution-Vehicle Typology]] — ETF-first / role classification

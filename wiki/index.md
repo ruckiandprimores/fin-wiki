@@ -221,7 +221,7 @@ tags: [meta, index, navigation]
 - [[investment/instruments/tech-semi-etfs|Tech / Semiconductor ETF Dossiers — NVDA-weight + execution role]]
 - [[investment/instruments/healthcare-qc-financials|Healthcare · Quality-Compounder · Financials Dossiers]]
 - [[investment/instruments/reits-core-etfs|REIT + Core/Broad/Bond ETF Dossiers]]
-- [[investment/instruments/defense-instruments|Defense Sleeve Dossiers — ETFs + primes (scope-candidate)]]
+- [[investment/instruments/defense-instruments|Defense Sleeve Dossiers — ETFs + primes (active vertical)]]
 - [[investment/instruments/global-gold-instruments|Ex-US / Global ETF + Gold ETC Dossiers]]
 
 Per-asset standalone dossiers (high-conviction names):
@@ -243,8 +243,8 @@ Per-asset standalone dossiers (high-conviction names):
 
 ### Theses
 - [[investment/theses/data-moat-ai-disruption|Data-Moat Incumbents vs Generative AI — Durable or Impaired?]]
-- [[investment/theses/defense-rearmament|Defense Re-armament — Structural Capex Trend (scope-candidate)]]
-- [[investment/theses/ex-us-de-dollarization|Ex-US / De-Dollarization — Concentration-Reduction Leg (scope-candidate)]]
+- [[investment/theses/defense-rearmament|Defense Re-armament — Structural Capex Trend (active CoC-build vertical)]]
+- [[investment/theses/ex-us-de-dollarization|Ex-US / De-Dollarization — Concentration-Reduction Leg (active leg)]]
 
 ### Watchlist
 

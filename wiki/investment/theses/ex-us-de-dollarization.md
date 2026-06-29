@@ -1,13 +1,13 @@
 ---
-title: "Ex-US / De-Dollarization — Concentration-Reduction Leg (Scope-Candidate)"
-description: "Thesis on a deliberate ex-US/EM equity leg + physical-gold sleeve as concentration-reduction + de-dollarization hedge — NOT a high-conviction 'ex-US wins' call. Valuation spread real but off-extreme; steelman bear case carried."
-status: seedling
+title: "Ex-US / De-Dollarization — Concentration-Reduction Leg (Active Diversification Leg)"
+description: "Thesis on a deliberate ex-US/EM equity leg + physical-gold sleeve as concentration-reduction + de-dollarization hedge — NOT a high-conviction 'ex-US wins' call. Active leg (greenlit 2026-06-29). Valuation spread real but off-extreme; steelman bear case carried."
+status: growing
 created: 2026-06-27
-updated: 2026-06-27
-tags: [thesis, ex-us, emerging-markets, gold, de-dollarization, diversification, scope-candidate]
+updated: 2026-06-29
+tags: [thesis, ex-us, emerging-markets, gold, de-dollarization, diversification, active-leg]
 ---
 
-# Ex-US / De-Dollarization — Concentration-Reduction Leg (Scope-Candidate)
+# Ex-US / De-Dollarization — Concentration-Reduction Leg (Active Diversification Leg)
 
 > **TL;DR**: The equity book is **57–71% US-concentrated with no gold sleeve.** The 2026-06-27 sweep
 > surfaced the de-dollarization rotation (gold + ex-US + defense) as structural. The frame is
@@ -16,8 +16,10 @@ tags: [thesis, ex-us, emerging-markets, gold, de-dollarization, diversification,
 > been a 10-year value trap. Size the ex-US/EM leg + gold sleeve to *reduce single-country/currency
 > risk*, not to bet on outperformance. Dated analysis, not a buy instruction.
 
-> **Status caveat**: scope-candidate pending the equity-scope-revisit decision; snapshots late-June
-> 2026, verify before acting.
+> **Status**: **active concentration-reduction leg (greenlit 2026-06-29)** — an operational execution
+> layer now exists in the research program's investing docs (XUSE + EMIM construction, ~10–20% sleeve
+> target, DCA'd). The **steelman bear case below stays load-bearing** — this is risk-reduction, not a
+> conviction outperformance call. Snapshots late-June 2026 — verify before acting.
 
 ## The valuation spread (real, but not extreme)
 
@@ -63,5 +65,5 @@ earns its place on risk-reduction grounds even if ex-US never out-performs.
 
 - [[investment/instruments/global-gold-instruments|Ex-US / global + gold dossiers]] — instrument detail (UCITS wrappers + gold ETCs)
 - [[foundation/methodology/execution-vehicle-typology|Execution-Vehicle Typology]] — equity wrappers role-(a), gold ETC role-(b)
-- [[investment/theses/defense-rearmament|Defense Re-armament]] — sibling scope-candidate (de-dollarization rotation's third leg)
+- [[investment/theses/defense-rearmament|Defense Re-armament]] — sibling active vertical (de-dollarization rotation's third leg)
 - [[foundation/macro/intermarket-analysis|Intermarket Analysis]] — cross-market / currency framework
