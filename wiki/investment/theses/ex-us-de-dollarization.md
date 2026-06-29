@@ -13,32 +13,72 @@ tags: [thesis, ex-us, emerging-markets, gold, de-dollarization, diversification,
 > surfaced the de-dollarization rotation (gold + ex-US + defense) as structural. The frame is
 > **concentration-reduction + de-dollarization hedge — NOT a high-conviction "ex-US wins" call.**
 > The valuation gap is real but off-extreme, the US premium partly earned, and "cheap ex-US" has
-> been a 10-year value trap. Size the ex-US/EM leg + gold sleeve to *reduce single-country/currency
-> risk*, not to bet on outperformance. Dated analysis, not a buy instruction.
+> been a 10-year value trap. **Bounded tilt is sound; a full rotation is value-trap bait** — and the
+> **dollar is the #1 falsifier** (a weak USD drove ~75% of 2025's ex-US outperformance). Size the
+> ex-US/EM leg + gold sleeve to *reduce single-country/currency risk*, not to bet on outperformance.
+> Dated analysis, not a buy instruction.
 
 > **Status**: **active concentration-reduction leg (greenlit 2026-06-29)** — an operational execution
-> layer now exists in the research program's investing docs (XUSE + EMIM construction, ~10–20% sleeve
-> target, DCA'd). The **steelman bear case below stays load-bearing** — this is risk-reduction, not a
-> conviction outperformance call. Snapshots late-June 2026 — verify before acting.
+> layer now exists in the research program's investing docs (XUSE + EIMI ~70/30 construction, ~10–20%
+> sleeve target, DCA'd). The **steelman bear case below stays load-bearing** — this is risk-reduction,
+> not a conviction outperformance call. Snapshots late-June 2026 — verify before acting.
+
+## Verdict — bounded tilt, not a rotation
+
+**A bounded ex-US tilt is sound; a full rotation out of US large-cap is value-trap bait.** Every major
+capital-market-assumptions house ranks ex-US developed + EM *above* US large-cap on 10-year expected
+return — **GMO, Research Affiliates, JPMorgan LTCMA, Vanguard VCMM** all agree on the *direction*. But
+the **magnitude is contested to the point of incoherence**: GMO's 7-yr forecast (May 2026) is roughly
+**−5.4%/yr real** on US large-cap, while JPMorgan's LTCMA is **+6.7% nominal** — the same asset, opposite
+decades. So "US underperforms" is a **contested forecast, not a fact.**
+
+Two honesty checks keep this a tilt, not a conviction call:
+- **GMO / RA have been wrong for a decade** — valuation is a poor *timing* tool; the call can be right
+  on a 10-yr horizon and ruinous for the next three years.
+- **Sector-mix explains much of the headline P/E gap** — US-software vs Europe-financials/value is a
+  composition difference, not a pure "US is expensive" signal. Adjusting for mix shrinks the discount.
+
+## The #1 falsifier: the dollar
+
+**The tilt is only as good as the dollar thesis.** A weakening USD drove **~75% of 2025's ex-US
+outperformance** — the equity-cheapness leg was secondary. So the single live watch-item, **above
+valuation**, is the dollar: **if DXY / EUR-USD durably reverses, cut the lean — do not average in.**
+For a EUR investor the FX channel is a structural tailwind on unhedged ex-US holdings (USD assets
+translate worse as EUR strengthens), which is why the leg is held **unhedged** for a 5–10-yr horizon.
+Valuation sets the *size* of the tilt; the dollar decides whether to *hold or cut* it.
 
 ## The valuation spread (real, but not extreme)
 
-| Region | Fwd P/E | CAPE |
+| Region | Fwd P/E | CAPE (Jun-2026) |
 |---|---|---|
-| US | ~21–22× | 34.7 |
-| Europe / EAFE | ~15–17× | DE 24 / UK 20 |
-| EM | ~13× | China 18 / India 34 |
+| US (S&P 500) | ~22.8× | **~35–40** |
+| Europe / EAFE | **~15×** | DE 24 / UK 20 |
+| EM | ~13× | wide (China 18 / India **34**) |
 
-The **EM-vs-DM discount ~35% is the widest in ~15 years.** The **US-vs-ex-US gap is wide but
-off-extreme** (per SSGA, near the 25-year average). So: EM cheapness is genuinely stretched;
-developed-ex-US is cheap-ish, not screaming.
+EAFE at ~15× fwd vs the S&P's ~22.8× is a **~40% discount — near a 20-year relative low**; the
+**EM-vs-DM discount is the widest in ~15 years.** But two caveats keep this "real, not screaming":
+Siblis' own note that **cross-country CAPE isn't directly comparable** (accounting / sector-mix
+differences), and the US-vs-ex-US gap being wide-but-off-extreme on a sector-adjusted basis. EM
+cheapness is genuinely stretched; developed-ex-US is cheap-ish.
 
-## The build (how to get clean ex-US exposure)
+## The build — validated ETF construction
 
-No single "ex-US all-world" UCITS exists at scale → clean construction = **XUSE (DM ex-US) + EMIM
-(EM)** weighted to taste. A one-fund global core (VWCE / SPYY) reduces US weight more gently. Gold
-as the role-(b) hard-money leg via SGLN / SGLD (0.12% TER) or a DE-tax-advantaged ETC (EUWAX Gold
-II, fee-free).
+No single "ex-US all-world" UCITS exists at scale → the validated spine is **XUSE (iShares MSCI World
+ex-USA, IE000R4ZNTN3, 0.15%) + EIMI (iShares Core MSCI EM IMI, IE00BKM4GZ66, 0.18%) ≈ 70/30** — the
+whole ex-US world at **~0.16% blended**, **unhedged** by default for a 5–10-yr hold. (EIMI = the same
+fund as the EMIM listing line.)
+
+- **Satellites (cap ~20% — overweights, not diversifiers):** Japan (Amundi Prime Japan), UK (FTSE
+  100), Europe (IMEU).
+- **AVOID:** **India @ CAPE ~34** (US-rich — not a value entry); **World-factor ETFs** (IWVL / IWQU
+  re-import ~70% US, defeating the purpose); standalone single-country LatAm. **Vanguard has no clean
+  ex-US UCITS** (VHVE = Developed World, still ~65% US).
+- A one-fund global core (VWCE / SPYY) only reduces US weight *gently* — fine for simplicity, but it
+  is not an ex-US tilt.
+
+Gold rides alongside as the role-(b) hard-money leg — SGLN / SGLD (0.12% TER) or a DE-tax-advantaged
+ETC (EUWAX Gold II, fee-free). Full wrapper detail:
+[[investment/instruments/global-gold-instruments|the ex-US / global + gold dossiers]].
 
 ## Steelman bear case (carried, not buried)
 
@@ -56,10 +96,12 @@ earns its place on risk-reduction grounds even if ex-US never out-performs.
 
 ## Falsifier / invalidation
 
+- **#1 — the dollar reverses.** A durable DXY / EUR-USD reversal → **cut the lean, don't average in**
+  (see [the dollar section](#the-1-falsifier-the-dollar) — it drove ~75% of 2025's ex-US edge). This
+  is the live watch-item, above valuation.
 - The US-vs-ex-US valuation gap narrows *via ex-US re-rating with a catalyst* (would upgrade this
   from risk-reduction to conviction) — or stays wide for another decade (confirms the value-trap
   bear, keeps it risk-reduction-only).
-- A sustained USD strengthening regime that makes the EUR-investor FX drag dominate the cheapness.
 
 ## Related
 
