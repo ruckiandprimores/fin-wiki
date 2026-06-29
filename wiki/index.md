@@ -2,7 +2,7 @@
 title: "Finance Wiki — Master Index"
 status: evergreen
 created: 2026-05-04
-updated: 2026-06-26
+updated: 2026-06-29
 tags: [meta, index, navigation]
 ---
 
@@ -10,7 +10,7 @@ tags: [meta, index, navigation]
 
 > Navigation catalog for the wiki. **Read [[ARCHITECTURE|ARCHITECTURE.md]] first** — the operating rules for this wiki: the schema, the mechanism-first domain principles, page conventions, and ingest/research workflows that govern how it is built and maintained. Use it *alongside* the wiki when reading or contributing. Then browse by section below. Open research questions live in **[[questions/index|the open-questions index]]**.
 >
-> 205 pages across a shared **foundation** and two branches — **trading** (day/swing) and **investment** (long-horizon).
+> 228 pages across a shared **foundation** and two branches — **trading** (day/swing) and **investment** (long-horizon).
 
 > **How this fits together.** This wiki is the **knowledge and memory** layer — it collects and systematizes information. Sitting *on top* of it is an AI research agent (the **strategist**) that consumes this knowledge to discover strategies, enforce validation discipline, and surface decisions. The agent's design is documented as knowledge in [[foundation/methodology/research-agent-design|The Strategist — Design of an AI Strategy-Research Agent]] (and [[ARCHITECTURE|ARCHITECTURE.md]] §Part V); its live operational state is private and deliberately not in this knowledge base. The separation is the point: the wiki *remembers*, the strategist *thinks*.
 
@@ -63,6 +63,7 @@ tags: [meta, index, navigation]
 ### Macro & regimes
 - [[foundation/macro/ai-cycle-calibration-2024-2026|AI Cycle Calibration 2024-2026 — Capex Buildout + Stage Classification]]
 - [[foundation/macro/btc-regime-taxonomy-2020-2025|BTC Regime Taxonomy 2020–2025 — Operational Reference]]
+- [[foundation/macro/btc-state-card|BTC State Card (living) — current objective state + evolution log]]
 - [[foundation/macro/crypto-2020-2022-cycle|Crypto 2020-2022 Cycle — Kindleberger-Minsky Framework Applied]]
 - [[foundation/macro/inflation-and-investments|Inflation and Investments]]
 - [[foundation/macro/intermarket-analysis|Intermarket Analysis — Murphy's Cross-Market Framework]]
@@ -74,6 +75,7 @@ tags: [meta, index, navigation]
 - [[foundation/methodology/bar-level-validation-overlay|Bar-level validation overlay — methodology for period-level signal consumers]]
 - [[foundation/methodology/behavioral-structure-design|Behavioral-Structure Design — Asset-Class Features Drive Holding Behavior]]
 - [[foundation/methodology/deployment-edge-threshold|Deployment-Edge Threshold — Net-of-Friction Floor for Live Strategies]]
+- [[foundation/methodology/execution-vehicle-typology|Execution-Vehicle Typology — Three Roles for ETFs in a Value-Investing Book]]
 - [[foundation/methodology/forecast-vs-tradeable-gap|Forecast-vs-Tradeable Gap — when a real predictive effect doesn't translate to strategy edge]]
 - [[foundation/methodology/hayes-essays-ingest|Hayes Essays Ingest — Methodology + Findings Ledger]]
 - [[foundation/methodology/investment-thesis-protocol|Investment Thesis Protocol]]
@@ -210,6 +212,25 @@ tags: [meta, index, navigation]
 
 ## Investment — long horizon
 
+### Living cards
+- [[investment/tech-leaders-card|Tech Leaders + Key ETFs (living) — conventional vs curated basket vs ETFs]]
+
+### Instruments (dossiers)
+- [[investment/instruments/ai-tech-instruments|AI/Tech Instrument Dossiers — watchlist · mega-caps · PROCEED baskets]]
+- [[investment/instruments/crypto-instruments|Crypto Instrument Dossiers — L1 ETPs + L2 equity proxies]]
+- [[investment/instruments/tech-semi-etfs|Tech / Semiconductor ETF Dossiers — NVDA-weight + execution role]]
+- [[investment/instruments/healthcare-qc-financials|Healthcare · Quality-Compounder · Financials Dossiers]]
+- [[investment/instruments/reits-core-etfs|REIT + Core/Broad/Bond ETF Dossiers]]
+- [[investment/instruments/defense-instruments|Defense Sleeve Dossiers — ETFs + primes (scope-candidate)]]
+- [[investment/instruments/global-gold-instruments|Ex-US / Global ETF + Gold ETC Dossiers]]
+
+Per-asset standalone dossiers (high-conviction names):
+- *Data-moats* — [[investment/instruments/spgi|SPGI — S&P Global]] · [[investment/instruments/relx|RELX — RELX plc]] · [[investment/instruments/vrsk|VRSK — Verisk]]
+- *Quality compounders* — [[investment/instruments/v-visa|V — Visa]] · [[investment/instruments/ma-mastercard|MA — Mastercard]]
+- *Picks-and-shovels* — [[investment/instruments/vrt|VRT — Vertiv]] · [[investment/instruments/etn|ETN — Eaton]] · [[investment/instruments/hubb|HUBB — Hubbell]]
+- *Healthcare* — [[investment/instruments/dhr|DHR — Danaher]]
+- *REITs* — [[investment/instruments/o-realty-income|O — Realty Income]]
+
 ### Allocation
 - [[investment/allocation/conviction-tiered-sizing|Conviction-Tiered Sizing — Druckenmiller's Top-Decile-Only Discipline]]
 - [[investment/allocation/defensive-investor-criteria|Defensive Investor Stock Selection Criteria]]
@@ -221,7 +242,9 @@ tags: [meta, index, navigation]
 - [[investment/allocation/wonderful-business-fair-price|Wonderful Business at a Fair Price]]
 
 ### Theses
-
+- [[investment/theses/data-moat-ai-disruption|Data-Moat Incumbents vs Generative AI — Durable or Impaired?]]
+- [[investment/theses/defense-rearmament|Defense Re-armament — Structural Capex Trend (scope-candidate)]]
+- [[investment/theses/ex-us-de-dollarization|Ex-US / De-Dollarization — Concentration-Reduction Leg (scope-candidate)]]
 
 ### Watchlist
 
@@ -231,15 +254,11 @@ tags: [meta, index, navigation]
 ### Glossary
 - [[glossary/basis-trade-crypto|Basis Trade (Crypto)]]
 - [[glossary/breakout|Breakout]]
-t=Breakout
 - [[glossary/charm|Charm]]
-t=Charm
 - [[glossary/circle-of-competence|Circle of Competence]]
 - [[glossary/deflated-sharpe-ratio|Deflated Sharpe Ratio (DSR)]]
 - [[glossary/divergence|Divergence]]
-t=Divergence
 - [[glossary/diworseification|Diworseification]]
-t=Diworseification
 - [[glossary/dollar-milkshake-thesis|Dollar Milkshake Thesis]]
 - [[glossary/funding-rate-carry|Funding Rate Carry]]
 - [[glossary/gamma-exposure-gex|Gamma Exposure (GEX)]]
@@ -250,9 +269,7 @@ t=Diworseification
 - [[glossary/purged-cross-validation|Purged Cross-Validation]]
 - [[glossary/sample-uniqueness|Sample Uniqueness]]
 - [[glossary/tenbagger|Tenbagger]]
-t=Tenbagger
 - [[glossary/vanna|Vanna]]
-t=Vanna
 - [[glossary/variance-premium|Variance Premium]]
 - [[glossary/vol-cone|Vol Cone]]
 - [[glossary/vol-skew|Vol Skew (Volatility Smile)]]

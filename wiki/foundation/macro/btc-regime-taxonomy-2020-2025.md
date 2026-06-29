@@ -599,6 +599,7 @@ These markers belong as live-regime entry tags when next updating the per-quarte
 
 ## Related
 
+- [[foundation/macro/btc-state-card]] — **added 2026-06-27**: the living BTC state card — Regime 15's current objective state updated each daily-review iteration (this episode, watched live)
 - [[foundation/methodology/online-regime-detection]] — **added 2026-06-07**: this taxonomy is written retrospectively (only the 2026-Q2 entry is contemporaneous — the hindsight caveat below IS the *smoothing* problem). That page is the prospective (filtering) counterpart — how to call a regime *live* from past data only — and catalogues the free callable-now marker feeds (CoinMarketCap Fear & Greed / Altcoin-Season / BTC-Dominance) that supply this page's marker set in real time.
 - [[foundation/sources/kindleberger-manias-panics-crashes]] — Kindleberger framework that this taxonomy operationalizes per regime
 - [[foundation/market-wisdom/bubble-cycle-stages]] — 5-stage cycle that this taxonomy maps onto
