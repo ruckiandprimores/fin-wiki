@@ -132,6 +132,7 @@ Per [[../market-structure/crypto-carrier-features|crypto-carrier-features]], BTC
 ## Related
 
 - [[sol-market-structure]] — sister page; SOL's long-bias-on-both-directions character (asymmetry at the institutional layer)
+- [[eth-market-structure]] — sister page (added 2026-07-14); ETH's structural counterpart — PoS staking-yield floor + MEV/PBS builder concentration, mechanics BTC (PoW, no block auction) does not share
 - [[../../trading/mechanisms/scaffold-as-mechanism]] — three-mechanism convergence as anti-coincidence evidence; per-symbol mechanism asymmetry now N=3
 - [[../../trading/mechanisms/regime-gate-vs-bias-filter]] — continuation character is regime character, not a tradeable signal alone
 - [[../../trading/rejected/auction-theory-range-fade-2026-05]] — N=2 family rejection that this codification deepens (continuation character is the deeper-than-detector explanation)

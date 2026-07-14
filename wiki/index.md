@@ -12,7 +12,7 @@ tags: [meta, index, navigation]
 >
 > **What this is.** A knowledge base built to cut through financial noise — mechanism-first, evidence-required, honest about what died. It holds two genres, and the reader always knows which: **knowledge** (how markets work) and **analysis** (how to reason about a specific instrument). What it deliberately does *not* hold: buy/sell calls, position sizing, or live positions — those *decisions* live with the strategist (operational), not here. See [[ARCHITECTURE]] for the two-genre rule.
 >
-> 240 pages across a shared **foundation** and two branches — **trading** (day/swing) and **investment** (long-horizon). *(Freshness: 2026-07-14.)*
+> 246 pages across a shared **foundation** and two branches — **trading** (day/swing) and **investment** (long-horizon). *(Freshness: 2026-07-14.)*
 
 > **How this fits together.** This wiki is the **knowledge and memory** layer — it collects and systematizes information. Sitting *on top* of it is an AI research agent (the **strategist**) that consumes this knowledge to discover strategies, enforce validation discipline, and surface decisions. The agent's design is documented as knowledge in [[foundation/methodology/research-agent-design|The Strategist — Design of an AI Strategy-Research Agent]] (and [[ARCHITECTURE|ARCHITECTURE.md]] §Part V); its live operational state is private and deliberately not in this knowledge base. The separation is the point: the wiki *remembers*, the strategist *thinks*.
 
@@ -59,6 +59,7 @@ tags: [meta, index, navigation]
 ### Asset classes
 - [[foundation/asset-classes/btc-market-structure|Bitcoin (BTC) — Market Structure for Strategy Design]]
 - [[foundation/asset-classes/defense-economics-primer|Defense Economics Primer — Monopsony, Contract Types, Backlogs, the European Cycle]]
+- [[foundation/asset-classes/eth-market-structure|Ethereum (ETH) — Market Structure for Strategy Design]]
 - [[foundation/asset-classes/forex|Forex (FX) — Asset Class Reference]]
 - [[foundation/asset-classes/pharma-economics-primer|Pharma Economics Primer — Patents, Cliffs, Biosimilars, PBMs]]
 - [[foundation/asset-classes/sol-market-structure|Solana (SOL) — Market Structure for Strategy Design]]
@@ -95,6 +96,11 @@ tags: [meta, index, navigation]
 
 ### Sources (annotated literature)
 - [[foundation/sources/ingest-queue|Ingest Queue — Researched Source Candidates]] *(meta — what's next and why)*
+- [[foundation/sources/eth-builder-market-decentralization|Decentralization of Ethereum's Builder Market (Yang, Nayak & Zhang)]]
+- [[foundation/sources/sok-proposer-builder-separation|SoK: Proposer-Builder Separation — PBS/ePBS Mechanism Design (Koegler)]]
+- [[foundation/sources/ethena-optimal-control-staking-basis|Ethena Optimal Control — Staking-Basis Strategy at Scale (Lorig)]]
+- [[foundation/sources/dms-yearbook-2026|UBS/DMS Global Investment Returns Yearbook 2026 — 126-Year Base Rates (Summary Edition)]]
+- [[foundation/sources/aqr-international-diversification|International Diversification — Still Not Crazy After All These Years (Asness, Ilmanen & Villalon 2023)]]
 - [[foundation/sources/ali-oct-2025-liquidation-cascade|Anatomy of the Oct 10-11 2025 Crypto Liquidation Cascade (Ali 2025)]]
 - [[foundation/sources/hyblock-coinglass-liquidation-heatmaps|Liquidation Heatmap Methodology — Hyblock & Coinglass (Reference Docs)]]
 - [[foundation/sources/fgi-causality-evidence-pair|Does the Fear & Greed Index Predict Bitcoin? A Contradiction Pair (Gessie 2026 vs Cavalheiro et al. 2024)]]

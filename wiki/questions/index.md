@@ -152,12 +152,12 @@ Per [[../trading/mechanisms/variance-risk-premium-crypto#operationalization-stat
 
 ## Mechanism-family extension + wiki gaps
 
-### C1. ETH market-structure page {#c1}
+### C1. ETH market-structure page — ✅ CLOSED 2026-07-14 {#c1}
 
-Per [[../foundation/asset-classes/btc-market-structure]] + [[../foundation/asset-classes/sol-market-structure]]: BTC + SOL have dedicated asset-class pages; ETH does not, despite N=5+ accumulated learnings (phase_breakout_fakeout_fade ETH, busy_hour_eth, failed-breakout-phase-fade-eth, range-tunnel-wyckoff-eth, cell_bull_exhaustion_eth). Independent of the discovery-track conclusion — a standing wiki coverage gap. Carried across multiple sessions (PM-7 onward).
+**RESOLVED**: [[../foundation/asset-classes/eth-market-structure]] created 2026-07-14 from the queued 3-paper cluster (builder-market decentralization arXiv:2405.01329 + Ethena/staking-basis arXiv:2605.11263 + PBS SoK arXiv:2506.18189 — all ingested at full-text grade). Completes the 3-symbol asymmetry framework (BTC continuation / SOL long-bias amplifier / ETH structural: staking-yield floor + MEV/PBS concentration). The successor open questions live on the new page: the **ETH-vs-BTC basis-comparison literature gap** (confirmed 2026-07-12 — no published paper), post-Oct-2024 builder-concentration drift, ePBS's empirical effect once live, Ethena's actual ETH-perp-OI share (unverifiable from the fetched paper — flagged, not asserted), and a primary-source recheck of the 28–30% staked-share figure.
 
-- Status: substrate threshold crossed; deferred repeatedly. **Source base researched 2026-07-12**: an ETH-structure ingest cluster is validated and queued ([[../foundation/sources/ingest-queue]] Tier 2 — builder-market decentralization arXiv:2405.01329, Ethena/staking-basis arXiv:2605.11263, PBS SoK arXiv:2506.18189). Research pass also found **no ETH-vs-BTC basis comparison paper exists** — a genuine literature gap the future page should flag.
-- Decides: completes the 3-symbol asymmetry framework
+- Status: **closed** — page exists; successor questions tracked on-page
+- Decided: the 3-symbol framework is complete; lab-empirical ETH breakout-character study remains a separate (unqueued) follow-on
 
 ### C2. Companion crypto-native sources — Glassnode + CoinMetrics ingest {#c2}
 

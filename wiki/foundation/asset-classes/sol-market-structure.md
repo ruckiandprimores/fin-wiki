@@ -147,6 +147,7 @@ These would resolve the regime-vs-structure question:
 ## Related
 
 - [[btc-market-structure]] — sister page; BTC's continuation character (the structural mirror of SOL's long-bias amplifier)
+- [[eth-market-structure]] — sister page (added 2026-07-14, closing the deferred ETH gap); staking economics + MEV/PBS structural picture — completes the 3-symbol framework
 - [[../market-structure/crypto-carrier-features]] — SOL profile fits here
 - [[../../trading/mechanisms/regime-gate-vs-bias-filter]] — SOL is the worked example
 - [[../../trading/mechanisms/scaffold-as-mechanism]] — per-symbol mechanism asymmetry codification (N=3 with BTC)

@@ -291,6 +291,7 @@ See [[trading/mechanisms/insurance-premium-harvest-overview#vrp-vs-funding-disti
 
 ## Related
 - [[../../foundation/sources/le-funding-aware-market-making|Le — Funding-Aware Market Making (2026)]] — inventory-funding HJB; the market-making counterpart to harvesting
+- [[../../foundation/sources/ethena-optimal-control-staking-basis|Lorig — Ethena Optimal Control (2026)]] — theoretical model of the ETH staking-basis variant at institutional scale: self-impact compresses the very basis being harvested (the capacity-limit mechanism); pairs with [[../../foundation/asset-classes/eth-market-structure|ETH market structure]] §3
 
 - [[insurance-premium-harvest-overview]] — parent / index page; one-screen comparison vs VRP harvest
 - [[variance-risk-premium-crypto]] — sibling: options-based insurance-premium harvest

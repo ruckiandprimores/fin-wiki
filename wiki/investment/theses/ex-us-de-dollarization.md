@@ -3,7 +3,7 @@ title: "Ex-US / De-Dollarization — Concentration-Reduction Leg (Active Diversi
 description: "Thesis on a deliberate ex-US/EM equity leg + physical-gold sleeve as concentration-reduction + de-dollarization hedge — NOT a high-conviction 'ex-US wins' call. Valuation spread real but off-extreme; the dollar is the #1 falsifier; steelman bear case carried."
 status: growing
 created: 2026-06-27
-updated: 2026-06-29
+updated: 2026-07-14
 tags: [thesis, ex-us, emerging-markets, gold, de-dollarization, diversification, active-leg]
 ---
 
@@ -60,6 +60,32 @@ Siblis' own note that **cross-country CAPE isn't directly comparable** (accounti
 differences), and the US-vs-ex-US gap being wide-but-off-extreme on a sector-adjusted basis. EM
 cheapness is genuinely stretched; developed-ex-US is cheap-ish.
 
+## The empirical base-rate layer (added 2026-07-14)
+
+The valuation-spread framing above rests on contested forward-looking CMA forecasts (GMO vs JPM). Two
+free sources add a long-run empirical layer underneath that debate — neither is a forecast; both describe
+what already happened. **UBS/DMS Yearbook 2026** (126 years, 1900–2025, 35 markets): by end-2025 **US
+equity market concentration is at its highest level in at least 100 years** (~62% of world equity value
+vs a ~24→36% GDP share over the same span) — the book's US-heavy concentration sits inside a market that
+is itself at a record extreme, not an idiosyncratic quirk. Diversification is measurably "getting more
+challenging" (DM/EM and equity/bond correlations both rising), yet **when currency-hedged, investors in
+the large majority of the 32 tracked markets were still better off holding global rather than domestic
+equity** (1974–2025). **AQR (Asness, Ilmanen, Villalon 2023)** supplies the mechanism for the thesis's
+5–10-year horizon: at short horizons crashes correlate across countries (conceded directly, not a straw
+man), but from ~2 years out, globally diversified portfolios recover while single-country worst-case paths
+do not (22 countries, 1950–2022). AQR's own decomposition of the US's post-1990 edge is the sharpest
+empirical counter to extrapolating US dominance forward: the headline +4.6%/yr US-vs-EAFE outperformance
+since 1990 **collapses to a statistically insignificant +1.2%/yr once the CAPE re-rating is controlled
+for** (US CAPE went from ~0.5× to ~1.5× EAFE's over the period) — and the US actually *underperformed*
+EAFE in three of the five decades before that sample begins. Separately, DMS's own standalone research
+(cited in AQR's footnote 6, not independently verified here) argues part of the US's 122-year, ~2%/yr
+long-run edge may reflect historical "luck" — no revolutions, no hyperinflation, no wars fought on home
+soil — rather than a repeatable structural advantage. None of this proves ex-US will outperform; it
+establishes that the record-concentration read is a documented fact rather than a narrative, and that the
+post-1990 US edge is mostly a valuation-richening story rather than a fundamentals story. See
+[[foundation/sources/dms-yearbook-2026]] and [[foundation/sources/aqr-international-diversification]] for
+full detail.
+
 ## The build — validated ETF construction
 
 No single "ex-US all-world" UCITS exists at scale → the validated spine is **XUSE (iShares MSCI World
@@ -108,3 +134,5 @@ earns its place on risk-reduction grounds even if ex-US never out-performs.
 - [[foundation/methodology/execution-vehicle-typology|Execution-Vehicle Typology]] — equity wrappers role-(a), gold ETC role-(b)
 - [[investment/theses/defense-rearmament|Defense Re-armament]] — sibling active vertical (de-dollarization rotation's third leg)
 - [[foundation/macro/intermarket-analysis|Intermarket Analysis]] — cross-market / currency framework
+- [[foundation/sources/dms-yearbook-2026|UBS/DMS Global Investment Returns Yearbook 2026]] — 126-year cross-country empirical base rate (US concentration at 100-yr high; DM/EM long-run record; diversification-still-works-when-hedged)
+- [[foundation/sources/aqr-international-diversification|AQR — International Diversification: Still Not Crazy after All These Years]] — the CAPE-decomposition of US-vs-EAFE outperformance + the long-horizon crash-recovery mechanism behind the 5–10-yr hold framing

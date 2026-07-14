@@ -2,7 +2,7 @@
 title: "Ingest Queue — Researched Source Candidates"
 status: living
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-07-14
 tags: [meta, sources, ingest-queue, planning, research-pass]
 ---
 
@@ -26,13 +26,16 @@ One-line record; see the wiki activity log entry of 2026-07-12 for the full inge
 
 ## Tier 2 — active-vertical depth (next up)
 
+**INGESTED 2026-07-14** (see the wiki activity log entry of 2026-07-14 for the full ingest):
+
+1. ✅ ETH market-structure cluster (all 3 papers, full-text grade) → [[foundation/sources/eth-builder-market-decentralization]] + [[foundation/sources/ethena-optimal-control-staking-basis]] + [[foundation/sources/sok-proposer-builder-separation]] + NEW [[foundation/asset-classes/eth-market-structure]] (**closes C1**)
+2. ✅ Ex-US empirical base rates (both full-text grade) → [[foundation/sources/dms-yearbook-2026]] + [[foundation/sources/aqr-international-diversification]] + evidence layer wired into [[investment/theses/ex-us-de-dollarization]]
+
 | Source | Gap | Notes |
 |---|---|---|
-| **UBS/DMS Global Investment Returns Yearbook 2026 summary** (free PDF) + **AQR "International Diversification — Still Not Crazy After All These Years"** (2023, free) | Ex-US leg — empirical base rates | 125yr cross-country returns + the long-horizon diversification evidence; not yet represented in the ex-US thesis (it cites CMA numbers, not this layer). Free, fast. |
 | **Rogoff, *Our Dollar, Your Problem*** (2025, Yale UP) | Ex-US leg — dollar-cycle macro foundation | Maps onto the thesis's "hedge, not collapse-call" framing; base rates for the #1 falsifier (the dollar). Book purchase. |
 | **Eichengreen, *Exorbitant Privilege*** (2011, OUP) | Reserve-currency mechanism baseline | The model Rogoff 2025 updates; the 2011-vs-2025 delta is itself informative. Book purchase. |
 | **Pisano, *Science Business*** (2006, HBS Press) | Pharma CoC book #2 | R&D-productivity economics; relevant to the tools/bioprocessing thesis (TMO/DHR). Structural material holds; case studies dated. Owner-reading track. |
-| **ETH market-structure cluster**: builder-market decentralization (arXiv:2405.01329) + Ethena optimal-control (arXiv:2605.11263) + PBS SoK (arXiv:2506.18189) | Open question C1 — no ETH structure page | One pass answers C1: MEV supply chain anchor + the ETH-vs-BTC structural basis difference (staking-yield floor under funding; Ethena ~5% of ETH perp OI as structural short). All free. |
 | **CryptoQuant User Guide** (userguide.cryptoquant.com) | C2 — crypto-native metric literacy | Winner among the three unfilled reference nodes: per-metric definition+formula+interpretation, on-chain AND derivatives, machine-readable (JSON catalog + OpenAPI + MCP). Glassnode Academy as follow-on; Coinglass NOT the literacy node. Free. |
 | **Risk-Based Auto-Deleveraging** (arXiv:2603.15963) | Post-cascade venue mechanics | Downstream extension of [[foundation/sources/ali-oct-2025-liquidation-cascade]]: insurance-fund exhaustion → ADL, with Oct-2025 + Jan-2026 events as case data. Free. |
 
