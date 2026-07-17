@@ -263,6 +263,7 @@ This template extends [[foundation/methodology/investment-thesis-protocol]] with
 - [[foundation/market-wisdom/economic-goodwill]] — Buffett: capitalized excess returns; pharma moats produce textbook economic goodwill
 - [[foundation/market-wisdom/wonderful-business-fair-price]] — Buffett: applicable to pharma evaluation; cigar-butt pharma at distressed P/E often patent-cliff distressed
 - [[foundation/methodology/investment-thesis-protocol]] — extends with pharma-specific question template (above)
+- [[foundation/asset-classes/semiconductor-economics-primer]] — structural sibling (added 2026-07-17): the third industry primer in the set (pharma → defense → semis)
 - [[templates/investment-thesis]] — full thesis template; §6 (target identification) section uses this primer
 - [[templates/investment-watchlist]] — lighter template for pharma-watchlist entries
 - [[foundation/sources/buffett-essays]] — capital-allocation framework specifically applies to pharma capital decisions

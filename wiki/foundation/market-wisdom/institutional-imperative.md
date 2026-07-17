@@ -141,6 +141,7 @@ For self-discipline:
 - [[foundation/market-wisdom/stocks-to-avoid-lynch]] — many of Lynch's anti-patterns are imperative manifestations (diworseifications, the next-something curse)
 - [[glossary/diworseification]] — direct application of mechanism 2
 - [[foundation/market-wisdom/circle-of-competence]] — the imperative is what pushes managers outside their circle
+- [[foundation/methodology/revealed-preference-vs-stated-view]] — the epistemic counterpart (added 2026-07-17): how to read the interested research output the imperative produces — statements are a product, flows are a position
 
 ## Open Questions
 

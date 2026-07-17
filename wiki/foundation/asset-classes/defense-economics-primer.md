@@ -119,6 +119,7 @@ What would make rearmament **NOT** flow to incumbent primes (the [[investment/th
 - [[investment/theses/defense-rearmament]] — the active thesis this primer substrates
 - [[investment/instruments/defense-instruments]] — ETF + prime analyses (the instrument layer)
 - [[foundation/asset-classes/pharma-economics-primer]] — structural sibling: the other CoC-build vertical's industry primer (moat anatomy comparison)
+- [[foundation/asset-classes/semiconductor-economics-primer]] — structural sibling (added 2026-07-17): completes the industry-primer set; monopsony/contract-anatomy here vs layer-moat anatomy there
 
 ## Sources
 

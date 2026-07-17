@@ -206,6 +206,7 @@ This mechanism lacks direct backtest evidence in the 2026-05-05 batch (W2 cohort
 - [[foundation/market-wisdom/bubble-cycle-stages]] — Kindleberger's whole-market 5-stage framework; complements Lynch's per-asset cyclical-timing. Lynch diagnoses cycle position via valuation (P/E inversion); Kindleberger diagnoses cycle position via flow + credit + sentiment. Both compose for full regime conditioning.
 - [[foundation/macro/btc-regime-taxonomy-2020-2025]] — operational reference for cycle-position classification of BTC specifically; 15 distinct regimes with characteristic markers
 - [[foundation/market-wisdom/minsky-three-finance]] — credit-cycle taxonomy; complements Lynch's cyclical valuation framework
+- [[foundation/methodology/commodity-cyclical-valuation-inversion]] — the commodity-producer operational extension (added 2026-07-17): P/B cross-check, 4-part trough sequence, and the mirror-image guard, built on this page's P/E-inversion mechanism
 - [[foundation/sources/one-up-on-wall-street]] — source
 - [[foundation/market-wisdom/lynch-six-categories]] — full taxonomy; cyclicals defined here
 - [[investment/allocation/when-to-sell-by-category]] — Lynch's full sell rules per category

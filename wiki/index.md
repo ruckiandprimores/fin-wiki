@@ -12,7 +12,7 @@ tags: [meta, index, navigation]
 >
 > **What this is.** A knowledge base built to cut through financial noise — mechanism-first, evidence-required, honest about what died. It holds two genres, and the reader always knows which: **knowledge** (how markets work) and **analysis** (how to reason about a specific instrument). What it deliberately does *not* hold: buy/sell calls, position sizing, or live positions — those *decisions* live with the strategist (operational), not here. See [[ARCHITECTURE]] for the two-genre rule.
 >
-> 246 pages across a shared **foundation** and two branches — **trading** (day/swing) and **investment** (long-horizon). *(Freshness: 2026-07-14.)*
+> 250 pages across a shared **foundation** and two branches — **trading** (day/swing) and **investment** (long-horizon). *(Freshness: 2026-07-17.)*
 
 > **How this fits together.** This wiki is the **knowledge and memory** layer — it collects and systematizes information. Sitting *on top* of it is an AI research agent (the **strategist**) that consumes this knowledge to discover strategies, enforce validation discipline, and surface decisions. The agent's design is documented as knowledge in [[foundation/methodology/research-agent-design|The Strategist — Design of an AI Strategy-Research Agent]] (and [[ARCHITECTURE|ARCHITECTURE.md]] §Part V); its live operational state is private and deliberately not in this knowledge base. The separation is the point: the wiki *remembers*, the strategist *thinks*.
 
@@ -62,6 +62,7 @@ tags: [meta, index, navigation]
 - [[foundation/asset-classes/eth-market-structure|Ethereum (ETH) — Market Structure for Strategy Design]]
 - [[foundation/asset-classes/forex|Forex (FX) — Asset Class Reference]]
 - [[foundation/asset-classes/pharma-economics-primer|Pharma Economics Primer — Patents, Cliffs, Biosimilars, PBMs]]
+- [[foundation/asset-classes/semiconductor-economics-primer|Semiconductor Economics Primer — Eight Layers, Eight Moats]]
 - [[foundation/asset-classes/sol-market-structure|Solana (SOL) — Market Structure for Strategy Design]]
 
 ### Macro & regimes
@@ -77,6 +78,7 @@ tags: [meta, index, navigation]
 - [[foundation/methodology/backtest-analysis-diagnostics|Backtest-Analysis Diagnostics — decomposition, asymmetric-N overlap, ablation baseline]]
 - [[foundation/methodology/bar-level-validation-overlay|Bar-level validation overlay — methodology for period-level signal consumers]]
 - [[foundation/methodology/behavioral-structure-design|Behavioral-Structure Design — Asset-Class Features Drive Holding Behavior]]
+- [[foundation/methodology/commodity-cyclical-valuation-inversion|Commodity-Cyclical Valuation Inversion — Low P/E on Peak Earnings Is the Trap]]
 - [[foundation/methodology/deployment-edge-threshold|Deployment-Edge Threshold — Net-of-Friction Floor for Live Strategies]]
 - [[foundation/methodology/execution-vehicle-typology|Execution-Vehicle Typology — Three Roles for ETFs in a Value-Investing Book]]
 - [[foundation/methodology/forecast-vs-tradeable-gap|Forecast-vs-Tradeable Gap — when a real predictive effect doesn't translate to strategy edge]]
@@ -87,6 +89,7 @@ tags: [meta, index, navigation]
 - [[foundation/methodology/path-quality-diagnostics|Path-Quality Diagnostics — when aggregate metrics pass but the equity curve is lottery-shaped]]
 - [[foundation/methodology/regime-marker-data-sources|Regime-Marker Data Sources — the Backtestable-Free Core]]
 - [[foundation/methodology/research-agent-design|The Strategist — Design of an AI Strategy-Research Agent]]
+- [[foundation/methodology/revealed-preference-vs-stated-view|Revealed Preference vs Stated View — Reading Institutional Research]]
 - [[foundation/methodology/reit-evaluation-methodology|REIT Evaluation Methodology — FFO, AFFO, NAV, Cap Rates]]
 - [[foundation/methodology/small-sample-validation-discipline|Small-Sample Validation Discipline — when N is below 30, point Sharpe lies]]
 - [[foundation/methodology/strategy-validation-discipline|Strategy Validation Discipline]]
@@ -257,6 +260,7 @@ Per-asset standalone analyses (high-conviction names):
 - [[investment/allocation/wonderful-business-fair-price|Wonderful Business at a Fair Price]]
 
 ### Theses
+- [[investment/theses/ai-infrastructure-bottleneck|AI Infrastructure — The Bottleneck Is Power, Not Chips]]
 - [[investment/theses/data-moat-ai-disruption|Data-Moat Incumbents vs Generative AI — Durable or Impaired?]]
 - [[investment/theses/defense-rearmament|Defense Re-armament — Structural Capex Trend (active CoC-build vertical)]]
 - [[investment/theses/ex-us-de-dollarization|Ex-US / De-Dollarization — Concentration-Reduction Leg (active leg)]]

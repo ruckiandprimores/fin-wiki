@@ -1,9 +1,9 @@
 ---
 title: "Execution-Vehicle Typology — Three Roles for ETFs in a Value-Investing Book"
-description: "The a/b/c role taxonomy for ETFs/wrappers in a direct-name value book: portfolio-averaging vs direct-asset-access vs concentration-overlay. The CoC-depth heuristic applies ONLY to role (a); a two-gate test (wrap quality → CoC depth) decides role (a) deployment."
+description: "The a/b/c role taxonomy for ETFs/wrappers in a direct-name value book: portfolio-averaging vs direct-asset-access vs concentration-overlay. The CoC-depth heuristic applies ONLY to role (a); a two-gate test (wrap quality → CoC depth) decides role (a) fit. Plus the 2026-07 sharpening: within a theme, the wrapper's index methodology IS the concentration decision — and the label is not the exposure."
 status: growing
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-07-17
 tags: [methodology, etfs, allocation, execution, value-investing, typology]
 ---
 
@@ -52,6 +52,58 @@ A candidate for role (a) must clear **two gates in order**:
    the (passing) ETF.
 
 Roles (b) and (c) skip both gates — (b) is pure custody, (c) is a sized-small tilt by design.
+
+## The wrapper is the concentration decision (added 2026-07-17)
+
+The "right names, wrong weights" failure mode above has a **general form**: within a theme, the
+wrapper's *index methodology* — cap rules, exclusion screens, equal- vs cap-weighting, purity
+thresholds — sets single-name concentration across a range **wide enough to dominate the outcome
+of the theme call itself**. An investor who has decided "I want this theme" has made the *smaller*
+decision; the wrapper then silently makes the bigger one. **Choosing the wrapper is choosing the
+position.**
+
+**The measurement**: for any thematic wrapper, ask two questions — *what is my single largest
+name's weight?* and *what is the range of that weight across the available wrappers for this same
+theme?* If the range is wide, the wrapper choice dominates the theme choice.
+
+The structural sub-cases:
+
+1. **Screens are silent position decisions.** An ESG/controversy screen that excludes a major name
+   entirely means an investor who never formed a view on that name has taken a 0% position in it —
+   by picking a wrapper.
+2. **Cap rules cut both ways.** A 10% single-name cap protects against top-heaviness *and*
+   mechanically underweights a winner. Neither is right per se; the point is that it is a real
+   position decision, and it is being made either way — by the index committee if not by the investor.
+3. **Domicile can change the exposure, not just the tax.** A UCITS "equivalent" of a US fund may
+   track a *different index variant* (e.g. capped vs uncapped) — do not assume equivalence from the
+   name; read the index methodology.
+
+### The corollary — the label is not the exposure
+
+Thematic indices drift away from their names, especially where the genuinely on-theme investable
+universe is thin and the index has to reach. A robotics-labelled wrapper can end up holding generic
+AI-infrastructure names; a legacy-automation wrapper can carry a large AI-chip weight. Either way,
+buying the label **double-counts an existing AI sleeve** rather than adding the theme on the tin.
+**Rule: verify holdings against the label before crediting a wrapper with a theme.** A thematic
+ETF's name is marketing; its index methodology is the product.
+
+### Evidence (N=2 sectors, 2026-07 — dated snapshot, perishable, illustration only)
+
+Same-shelf single-name concentration ranges observed July 2026 (weights drift with price and
+rebalances; the *range-width* is the durable point):
+
+- **Semiconductors — NVDA weight across "semis ETF" wrappers**: ~7% (10%-capped UCITS variant;
+  equal-weighted US fund similar) → ~8% (SOXX) → ~19% (SMH) → ~22% (cap-weighted MSCI wrapper). The
+  UCITS twin of the famous US ticker tracks a *capped* index variant — materially less concentrated
+  than the fund whose name it shares.
+- **Defense — Rheinmetall weight across "defense ETF" wrappers**: **0%** (excluded entirely by an
+  ISS controversy screen) → ~3% → ~4% → ~8% → **~11%**. A 0→11-point swing in a single name across
+  one shelf — the wrapper choice *was* the single-name sizing decision, and the dispersion showed up
+  directly in same-year returns when that name consolidated.
+
+This extends the typology's original N=4 role evidence with N=2 independent sector cases of the
+concentration-range effect. Layer-level context for the semis case:
+[[foundation/asset-classes/semiconductor-economics-primer|the semiconductor economics primer]].
 
 ## Why role-tagging matters
 
